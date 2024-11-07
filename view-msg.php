@@ -4,7 +4,7 @@ error_reporting(0);
 include('includes/config.php');
 
 
-// code for insert product in order table
+// code for insert product in order table...
 
 
 
